@@ -3,7 +3,7 @@
 	"FileReferences": {
 		"Moc": "jiaran4.moc3",
 		"Textures": [
-			"textures/texture_00.png"
+			"jiaran4.2048/texture_00.png"
 		],
 		"Physics": "jiaran4.physics3.json",
 		"DisplayInfo": "jiaran4.cdi3.json"
